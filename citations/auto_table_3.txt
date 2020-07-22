@@ -1,0 +1,40 @@
+B&CPI – Buildings and Core Public Infrastructure
+CanAM4 – Canadian (CCCma) Atmospheric Model version 4
+CanESM2 – Canadian (CCCma) Earth System Model version 2
+CanRCM4 – Canadian (CCCma) Regional Climate Model version 4
+CC – Clausius-Clapeyron
+CCCma – Canadian Centre for Climate Modelling and Analysis
+CHBDC – Canadian Highway Bridge Design Code
+CLASS – Canadian Land Surface Scheme
+CoV – Coefficient of Variation, the ratio of standard deviation to the mean of a time series of annual maxima
+CGCM3 – Canadian Global Climate Model version 3
+CMIP – Coupled Model Intercomparison Project (phase 3, CMIP3; and phase 5, CMIP5)
+CORDEX – Coordinated Regional Downscaling Experiment
+CRCM5 – Canadian Regional Climate Model version 5
+CRD – Climate Research Division
+DRWP – Driving Rain Wind Pressure
+ECCC – Environment and Climate Change Canada
+ESM – Earth System Model
+FP – Freezing Precipitation
+GEM – Global Environmental Multiscale Model
+GCM – Global Climate Model
+GHG – Greenhouse Gas
+HRCONUS – High-resolution Contiguous United States
+IDF – Intensity-Duration-Frequency
+IPA – International Permafrost Association
+IPCC – Intergovernmental Panel on Climate Change
+LE – Large Ensemble
+NARCCAP – North American Climate Change Assessment Program
+NBCC – National Building Code of Canada
+NRC – National Research Council
+PCIC – Pacific Climate Impacts Consortium
+RCM – Regional Climate Model
+NS ratio – noise-to-signal ratio, a measure of ensemble spread divided by the magnitude of projected change
+RCP – Representative Concentration Pathway
+SCE – Area of Snow Covered Extent
+SFI – Surface Frost Index
+SRES – Special Report on Emissions Scenarios
+SWE – Snow Water Equivalent
+Ts – Near-surface Air Temperature
+T850 – Air Temperature at 850 hPa 
+WRF – Weather Research and Forecasting Model

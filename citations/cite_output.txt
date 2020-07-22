@@ -1,0 +1,18 @@
+<dt>Reference 1</dt>
+	<dd id='ref1'>
+		<p>Taylor, K. E., Stouffer, R. J., & Meehl, G. A. (2012). An overview of CMIP5 and the experiment design. Bulletin of the American Meteorological Society, 93(4), 485-498.</p>
+		<p class='fn-rtn'><a href='#ref1-1-rf'><span class='wb-inv'>Return to reference </span>1<span class='wb-inv'> referrer</span></a></p>
+	</dd>
+
+<dt>Reference 2</dt>
+	<dd id='ref2'>
+		<p>Eyring, V., Bony, S., Meehl, G. A., Senior, C. A., Stevens, B., Stouffer, R. J., & Taylor, K. E. (2016). Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) experimental design and organization. Geoscientific Model Development, 9(LLNL-JRNL-736881).</p>
+		<p class='fn-rtn'><a href='#ref2-1-rf'><span class='wb-inv'>Return to reference </span>2<span class='wb-inv'> referrer</span></a></p>
+	</dd>
+
+<dt>Reference 3</dt>
+	<dd id='ref3'>
+		<p><sup id='ref2-1-rf'><a class='fn-lnk' href='#ref2'><span class='wb-inv'>Reference </span>2</a></sup></p>
+		<p class='fn-rtn'><a href='#ref3-1-rf'><span class='wb-inv'>Return to reference </span>3<span class='wb-inv'> referrer</span></a></p>
+	</dd>
+

@@ -1,0 +1,30 @@
+<div tabindex="-1" id="figure-1.1">
+	<figure>
+		<img class="img-responsive thumbnail center-block" alt="See description below" src="Images/asdf.png" />
+		<figcaption>
+			<strong>Figure 1.1</strong>: asdf
+		<figcaption>
+	</figure>
+</div>
+<br />
+
+<div tabindex="-1" id="figure-1.1">
+	<figure>
+		<img class="img-responsive thumbnail center-block" alt="See description below" src="Images/mountain.jpg" />
+		<figcaption>
+			<strong>Figure 1.1</strong>: mountain
+		<figcaption>
+	</figure>
+</div>
+<br />
+
+<div tabindex="-1" id="figure-2.1">
+	<figure>
+		<img class="img-responsive thumbnail center-block" alt="See description below" src="Images/mountain.png" />
+		<figcaption>
+			<strong>Figure 2.1</strong>: It's a mountian
+		<figcaption>
+	</figure>
+</div>
+<br />
+

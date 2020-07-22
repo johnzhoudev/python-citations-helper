@@ -1,0 +1,6 @@
+Note that global warming in this report is referenced relative to a recent 31-year period, 1986-2016, rather than an earlier period such as 1851-1900 as used by the Intergovernmental Panel on Climate Change, or “pre-industrial”, typically taken to be 1750, as referenced in the UN Framework Convention on Climate Change. Offsets can be used to link warming levels that are expressed relative to different base periods. This report uses a recent base period because design data tabulated in NBCC 2015 and CHBDC 2014 are generally based on recent instrumental observations. Also, observations from recent decades are generally more complete than earlier preindustrial or early industrial periods, and the climate change simulations used in this report to project possible design value changes are not available for periods prior to 1951.
+1
+1
+This is a footnote
+2
+1
